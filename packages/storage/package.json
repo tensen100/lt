@@ -1,9 +1,9 @@
 {
   "name": "@light/storage",
-  "version": "0.0.0",
-  "description": "> TODO: description",
+  "version": "0.0.1",
+  "description": "storage tool",
   "author": "tai.liao <924101737@qq.com>",
-  "homepage": "https://github.com/tensen100/lt#readme",
+  "homepage": "https://github.com/tensen100/light#readme",
   "license": "ISC",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tensen100/lt.git"
+    "url": "git+https://github.com/tensen100/light.git"
   },
   "scripts": {
     "build": "webpack",
@@ -21,7 +21,7 @@
     "dev": "webpack serve --config=webpack-dev.config.js"
   },
   "bugs": {
-    "url": "https://github.com/tensen100/lt/issues"
+    "url": "https://github.com/tensen100/light/issues"
   },
   "devDependencies": {
     "@types/crypto-js": "^4.1.1",
